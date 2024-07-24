@@ -17,6 +17,7 @@ In addition to my technical pursuits, I have a background in tutoring general an
 - Hypothesis Testing
 - Data Analysis & Visualization
 - Machine Learning
+- Dashboard Creation
 
 ## ⚙️ Tech Stack
 ### *Programming Langauges*
