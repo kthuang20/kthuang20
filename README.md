@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/kthuang20?label=Follow&style=social)](https://github.com/kthuang20)
 
 ## About Me
-I am a graduate student pursuing my master's in Biomedical Engineering and Biotechnology at University of Massachusetts Lowell. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
+I am a graduate student pursuing my master's in Biomedical Engineering and Biotechnology at the University of Massachusetts Lowell in Lowell, MA. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
 
 My journey began in the biotech industry, where I worked in a wet lab performing binding ELISAs, qPCR, protein production, and characterization. This hands-on experience highlighted the high demand for computational skills, sparking my interest in learning programming to tackle complex computational biology questions.
 
