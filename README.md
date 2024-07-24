@@ -1,6 +1,5 @@
 # Hi there, I'm Katie! 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KatieHuang20/)
-
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kthuang20.github.io/Katie_Portfolio/)](https://kthuang20.github.io/Katie_Portfolio/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:katie.huang830@gmail.com)
 [![Github](https://img.shields.io/github/followers/kthuang20?label=Follow&style=social)](https://github.com/kthuang20)
