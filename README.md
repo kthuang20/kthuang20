@@ -8,7 +8,7 @@
 ## About Me
 I am a graduate student pursuing my master's in Biomedical Engineering and Biotechnology at the University of Massachusetts Lowell in Lowell, MA. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
 
-My journey began in the biotech industry, where I worked in a wet lab performing binding ELISAs, qPCR, protein production, and characterization. This hands-on experience highlighted the high demand for computational skills, sparking my interest in learning programming to tackle complex computational biology questions.
+My journey began in the biotech industry, where I worked in a wet lab performing cell culture, binding ELISAs, qPCR, protein production, and characterization. This hands-on experience highlighted the high demand for computational skills, sparking my interest in learning programming to tackle complex computational biology questions.
 
 In addition to my technical pursuits, I have a background in tutoring general and organic chemistry, as well as mentoring others. I aim to use the communication skills I've developed through these experiences to create resources that share tips, tricks, and new skills. My goal is to benefit those new to data science and computational biology, especially those with limited programming skills, and to foster a community that promotes continuous learning.
 
