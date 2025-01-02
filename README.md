@@ -6,7 +6,7 @@
 [Website Portfolio](https://kthuang20.github.io/Katie_Portfolio/)
 
 ## About Me
-I am a graduate student pursuing my master's in Biomedical Engineering and Biotechnology at the University of Massachusetts Lowell in Lowell, MA. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
+I am an aspiring biomedical data scientist with a master's in Biomedical Engineering and Biotechnology at the University of Massachusetts Lowell in Lowell, MA. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
 
 My journey began in the biotech industry, where I worked in a wet lab performing cell culture, binding ELISAs, qPCR, protein production, and characterization. This hands-on experience highlighted the high demand for computational skills, sparking my interest in learning programming to tackle complex computational biology questions.
 
