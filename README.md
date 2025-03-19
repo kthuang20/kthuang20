@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:katie.huang830@gmail.com)
 [![Github](https://img.shields.io/github/followers/kthuang20?label=Follow&style=social)](https://github.com/kthuang20)
 
-[Website Portfolio](https://kthuang20.github.io/Katie_Portfolio/)
+[Website Portfolio](https://katie-huang.vercel.app)
 
 ## About Me
 I am an aspiring biomedical data scientist with a master's in Biomedical Engineering and Biotechnology at the University of Massachusetts Lowell in Lowell, MA. I am passionate about leveraging statistical methods to build data-driven models that enhance the development of effective treatments for patients. I engage in every phase of the data science workflow, from data collection and analysis to model deployment and dashboard creation.
